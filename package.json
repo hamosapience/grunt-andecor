@@ -1,15 +1,15 @@
 {
   "name": "grunt-andecor",
   "description": "Code decoration via comment annot",
-  "version": "0.1.0",
-  "homepage": "https://github.com/kalle/andecor",
+  "version": "0.1.1",
+  "homepage": "https://github.com/hamosapience/grunt-andecor",
   "author": {
-    "name": "Valentine Kamenek",
-    "email": "kalle@yandex-team.ru"
+    "name": "Kalentine Vamenek",
+    "email": "aisseday@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kalle/andecor.git"
+    "url": "git://github.com/hamosapience/grunt-andecor.git"
   },
   "bugs": {
     "url": "https://github.com/kalle/andecor/issues"
